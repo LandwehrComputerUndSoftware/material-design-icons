@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/google/material-design-icons"
+    "url": "https://github.com/LandwehrComputerUndSoftware/material-design-icons-font-only"
   },
   "keywords": [
     "icons",
@@ -18,7 +18,7 @@
   "author": "Material Design Authors",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/google/material-design-icons/issues"
+    "url": "https://github.com/LandwehrComputerUndSoftware/material-design-icons-font-only/issues"
   },
   "homepage": "https://github.com/google/material-design-icons"
 }
