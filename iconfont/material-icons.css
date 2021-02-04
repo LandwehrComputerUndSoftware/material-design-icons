@@ -4,7 +4,6 @@
   font-weight: 400;
   src: local('Material Icons'),
        local('MaterialIcons-Regular'),
-       url(MaterialIcons-Regular.otf) format('opentype'),
        url(MaterialIcons-Regular.ttf) format('truetype');
 }
 
